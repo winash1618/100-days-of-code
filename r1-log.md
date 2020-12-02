@@ -1,10 +1,16 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Asharaf k v]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [Dec 2, Wed, 2020].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Today's Project(s):
+    FCC code challenges
+    Odin project challenges
+Progres:
+    more HTML
+Link to work
+    [My FCC code Portfolio](https://www.freecodecamp.org/asharaf)
 
 ### R1D2
