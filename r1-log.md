@@ -24,6 +24,6 @@ The log of my #100DaysOfCode challenge. Started on [Dec 2, Wed, 2020].
  * Today's Project(s):
   * FCC code challenges
 * Progres:
-  * more css
+  * more css, python
 * Link to work
   * [My FCC code Portfolio](https://www.freecodecamp.org/asharaf)
